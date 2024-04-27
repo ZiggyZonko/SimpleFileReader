@@ -1,1 +1,3 @@
-Read This text
+Customize This to be read.
+
+DIR-PATH - The Directory Path is the Path leading to the read.txt.
