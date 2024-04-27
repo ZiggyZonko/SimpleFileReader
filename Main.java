@@ -7,7 +7,7 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
         // Specify the path to your text file
-        String filePath = "C:/Users/zacha/OneDrive/Desktop/2024/Java/FileReader/src/read/read.txt";
+        String filePath = "PASTE-DIR-HERE";
 
         try {
             // Read all lines from the file
